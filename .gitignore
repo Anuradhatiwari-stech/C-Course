@@ -1,0 +1,7 @@
+a.out
+hello
+*.dSYM
+Recursion/SudokuSolver
+Recursion/PrintSubsets
+Recursion/SudokuSolver.dSYM
+Recursion/*.dSYM
