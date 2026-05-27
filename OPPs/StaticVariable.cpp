@@ -26,8 +26,11 @@ class A {
 
 int main(){
 
-    Func(); // x: 0
-    Func(); // x: 1
+    #include <iostream>
+#include <string>
+#include <vector>
+#include <set>
+using namespace std;Func(); // x: 1
     // Func(); // x: 2
     // Func(); // x: 3
 
